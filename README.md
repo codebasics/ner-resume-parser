@@ -1,1 +1,1 @@
-# ner-resume-parser
+# NER Resume Parser
